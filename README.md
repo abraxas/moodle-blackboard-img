@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/moodle-blackboard-img">moodle-blackboard-img</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/moodle-blackboard-img"><strong>https://abraxaslabs.tech/research/moodle-blackboard-img</strong></a>
+</p>
+
 
 # moodle-blackboard-img
 
